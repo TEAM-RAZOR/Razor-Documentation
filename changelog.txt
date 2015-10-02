@@ -1,1 +1,41 @@
 RAZOR-Changelog:
+
+
+RC 1.0 (2nd OCT)
+
+Layers Theme Manager
+RazorOTA
+OmniSwitch
+AdAway
+Quick Settings Customization
+Status bar Customization
+Notification Ticker
+Double tap to sleep
+Double tap to wake
+Recent panel Customization
+Slim App Sidebar
+Slim Recents
+Option to disable/enable searchbar in Recents menu
+Live Display
+Navigation bar
+Slim Dim
+PIE Control
+Toast Animations
+Listview Animations
+Clock Widget
+Power Menu
+Expandable desktop
+Prebuild SuperSU
+Volume Rocker Wake
+Ambient Display
+Volume Steps
+Heads up Notifications
+Battery Saver
+Gesture Lockscreen
+3*3, 4*4, 5*5, 6*6 Lock Screen pattern
+Advanced Reboot by default
+Screen Pinning
+Privacy Gaurd
+Gesture Typing
+Performance
+Device Extra-Information in About Phone
