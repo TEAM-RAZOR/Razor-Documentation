@@ -15,6 +15,10 @@ Double tap to wake
 Recent panel Customization
 Slim App Sidebar
 Slim Recents
+MultiColoured LED
+AudioFX
+Enabled task manager by default
+Single click data toggle, Long click data usage
 Option to disable/enable searchbar in Recents menu
 Live Display
 Navigation bar
