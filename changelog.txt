@@ -47,6 +47,19 @@ Device Extra-Information in About Phone
 
 
 RC-2.0 (will be up soon)
+5.1.1_R24
+Slim Upstreams
+Network Traffic meter
+Network traffic meter color
+Carrier label
+Double tap on nav bar to sleep
+Materialized toast frames
+Added music tile
+Show wifi tab by default in Data Usage
 BootMessage: Show each app name being optimized during boot
 Bootmsg: The app name is now displayed in bold text
 Enhance dexopt with random colours
+Theming Immersive mode confirmation dialog
+Show Optimizing app dialog on first boot
+set carrier label visibility to gone
+Status bar carrier: don't show Emergency text if no sim is installed
