@@ -43,3 +43,10 @@ Privacy Gaurd
 Gesture Typing
 Performance
 Device Extra-Information in About Phone
+
+
+
+RC-2.0 (will be up soon)
+BootMessage: Show each app name being optimized during boot
+Bootmsg: The app name is now displayed in bold text
+Enhance dexopt with random colours
