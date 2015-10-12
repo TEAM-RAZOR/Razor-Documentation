@@ -55,6 +55,7 @@ Carrier label
 Double tap on nav bar to sleep
 Materialized toast frames
 Added music tile
+Quick Boot
 Show wifi tab by default in Data Usage
 BootMessage: Show each app name being optimized during boot
 Bootmsg: The app name is now displayed in bold text
