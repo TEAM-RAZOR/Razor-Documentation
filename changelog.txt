@@ -48,6 +48,7 @@ Device Extra-Information in About Phone
 
 RC-2.0 (will be up soon)
 5.1.1_R24
+Compiled with UBER
 Slim Upstreams
 Network Traffic meter
 Network traffic meter color
@@ -56,6 +57,7 @@ Double tap on nav bar to sleep
 Materialized toast frames
 Added music tile
 Quick Boot
+Updated Layers 
 Show wifi tab by default in Data Usage
 BootMessage: Show each app name being optimized during boot
 Bootmsg: The app name is now displayed in bold text
