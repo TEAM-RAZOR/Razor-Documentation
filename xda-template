@@ -106,6 +106,73 @@ The list still continues....
 
 2nd Oct 2015
 INITIAL RELEASE RC 1.0
+[HIDE]
+Layers Theme Manager
+RazorOTA
+OmniSwitch
+AdAway
+Quick Settings Customization
+Status bar Customization
+Notification Ticker
+Double tap to sleep
+Double tap to wake
+Recent panel Customization
+Slim App Sidebar
+Slim Recents
+MultiColoured LED
+AudioFX
+Enabled task manager by default
+Single click data toggle, Long click data usage
+Option to disable/enable searchbar in Recents menu
+Live Display
+Navigation bar
+Slim Dim
+PIE Control
+Toast Animations
+Listview Animations
+Clock Widget
+Power Menu
+Expandable desktop
+Prebuild SuperSU
+Volume Rocker Wake
+Ambient Display
+Volume Steps
+Heads up Notifications
+Battery Saver
+Gesture Lockscreen
+3*3, 4*4, 5*5, 6*6 Lock Screen pattern
+Advanced Reboot by default
+Screen Pinning
+Privacy Gaurd
+Gesture Typing
+Performance
+Device Extra-Information in About Phone
+[/HIDE]
+
+RC-2.0 (15th Oct)
+[HIDE]
+5.1.1_R24
+Compiled with UBER
+Merged Upstreams from Slim and CM
+Network Traffic meter
+Network traffic meter color
+Carrier label
+Double tap on nav bar to sleep
+Materialized toast frames
+Added music tile
+Quick Boot
+Screen Record
+Updated Layers
+Security Patch level with Oct 1 for LP
+Show wifi tab by default in Data Usage
+BootMessage: Show each app name being optimized during boot
+Bootmsg: The app name is now displayed in bold text
+Enhance dexopt with random colours
+Theming Immersive mode confirmation dialog
+Show Optimizing app dialog on first boot
+set carrier label visibility to gone
+Status bar carrier: don't show Emergency text if no sim is installed
+[/HIDE]
 
 [/SIZE][/B]
 
