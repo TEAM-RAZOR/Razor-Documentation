@@ -57,6 +57,7 @@ Double tap on nav bar to sleep
 Materialized toast frames
 Added music tile
 Quick Boot
+Screen Record
 Updated Layers 
 Security Patch level with Oct 1 for LP 
 Show wifi tab by default in Data Usage
