@@ -46,7 +46,7 @@ Device Extra-Information in About Phone
 
 
 
-RC-2.0 (will be up soon)
+RC-2.0 (15th Oct)
 5.1.1_R24
 Compiled with UBER
 Merged Upstreams from Slim and CM
