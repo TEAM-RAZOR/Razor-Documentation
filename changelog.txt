@@ -86,3 +86,10 @@ Show toast if USB not connected in Storage Settings
 More battery saver options
 Screen Off: Add 60 mins interval
 Add lockscreen rotation as an optional rotation settings
+
+RC-2.6 (16th Nov)
+Update only for Yuphoria (lettuce)
+updated google android to 5.1.1_r29
+fixed broken camera
+other minor bug fixes
+more n more stable :p
