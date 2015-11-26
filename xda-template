@@ -174,6 +174,24 @@ set carrier label visibility to gone
 Status bar carrier: don't show Emergency text if no sim is installed
 [/HIDE]
 
+RC-2.5 (10th Nov)
+[HIDE]
+slim upstreams
+cm upstreams
+Fix screen record not showing in power menu
+updated layers manager
+updated SuperSU to 2.52
+more and more smooth now
+YU Doze
+updated android 5.1.1_r28
+1st Oct Security patch level
+smooth spinners
+Materialize toast frames
+Show toast if USB not connected in Storage Settings
+More battery saver options
+Screen Off: Add 60 mins interval
+Add lockscreen rotation as an optional rotation settings
+[/HIDE]
 [/SIZE][/B]
 
 [IMG]http://i.imgur.com/AeMQ9Eo.png[/IMG]
